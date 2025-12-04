@@ -111,7 +111,7 @@ exam_topics = [
     "Exam CCSP topic 1",
     "Exam CISSP topic 1",
     "Exam SSCP topic 1",
-    "DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric"
+    "Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric"
 ]
 
 # Create the main application window
@@ -141,4 +141,5 @@ start_button.grid(row=3, column=0, columnspan=2, padx=10, pady=20)
 
 # Start the Tkinter event loop
 root.mainloop()
+
 
